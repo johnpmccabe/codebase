@@ -1,0 +1,37 @@
+body {
+text-align: center;
+background: black;
+color: green;
+}
+header img {
+margin: 50px; 
+border: 0px solid red;
+border-radius: 23px;
+}
+h1 {
+font-size: 52px;
+padding: 20px;
+}
+.nav a {
+color: black;
+background: white;
+padding: 20px;
+font-size:18px;
+}
+.nav a:hover {
+background: pink;
+}
+p {
+text-align: center;
+padding: 20;
+margin-top: 40px;
+}
+a {
+background: white;
+color: black;
+padding: 3px;
+}
+a:hover {
+background: pink;
+color: black;
+}
